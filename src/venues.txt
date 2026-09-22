@@ -1,0 +1,14 @@
+
+<<<<<<<< venues >>>>>>>>
+
+Hall A
+Auditorium 1
+Library Conference Room
+
+Main Hall
+Lecture Room 2
+
+Seminar Hall B
+Computer Lab 3
+
+
