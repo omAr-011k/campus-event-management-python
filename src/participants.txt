@@ -1,6 +1,0 @@
-science fair,ali
-science fair,sara
-math olympiad,omar
-tech expo,lina
-tech expo,yusuf
-omar
